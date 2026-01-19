@@ -1,0 +1,37 @@
+/* Product card */
+.product-card {
+    padding: 12px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+/* Product name */
+.product-name {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* Price */
+.product-price {
+    color: #2e7d32;
+    font-weight: bold;
+}
+
+/* Description */
+.product-desc {
+    color: #555555;
+    font-size: 12px;
+}
+
+/* Quantity buttons */
+.qty-btn {
+    min-width: 32px;
+    min-height: 28px;
+    border-radius: 8px;
+}
+
+/* Quantity number */
+.qty-label {
+    min-width: 24px;
+    font-weight: bold;
+}
