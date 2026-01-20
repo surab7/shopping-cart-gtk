@@ -171,7 +171,7 @@ CREATE TABLE Users (
 
 ## 👨‍💻 Author
 
-**Prakhyat Mittal**
+**Surab Ghosh**
 B.Tech Student | Software Developer
 Interests: Systems Programming, GUI Applications, Databases
 
